@@ -1,4 +1,4 @@
--- take a look att the data stored in each table
+-- take a look at the data stored in each table
 --1
 select * from olist_customers
 limit 10;
